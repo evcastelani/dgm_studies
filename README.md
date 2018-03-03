@@ -1,8 +1,8 @@
-#DGM Studies
+# DGM Studies
 
 This repository is devoted just for studies in DGM problems.
 
-#Goals
+# Goals
 
 - Implement a simple version of the solution proposed by Coope
 to solve intersection of spheres (in Julia Language);
