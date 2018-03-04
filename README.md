@@ -1,6 +1,6 @@
-# DGM Studies
+# DGP Studies
 
-This repository is devoted just for studies in DGM problems.
+This repository is devoted just for studies in Distance Geometry  problems.
 
 # Goals
 
@@ -8,7 +8,7 @@ This repository is devoted just for studies in DGM problems.
 to solve intersection of spheres (in Julia Language);
 - Implement a simple version of the solution proposed by Coope
 to solve intersection of spheres plus least square method (in Julia Language);
-- Implement a version of the Coope idea for solving DGM problems in
+- Implement a version of the Coope idea for solving DGP problems in
 arbitrary dimension (a branch and prune strategy) (in Julia Language);
 - Implement a version of Carlile Branch and prune strategy (in Julia Language);
 - Implement a version of AG branch and prune strategy (in Julia Language).
