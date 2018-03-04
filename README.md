@@ -6,6 +6,7 @@ This repository is devoted just for studies in Distance Geometry  problems.
 
 - Implement a simple version of the solution proposed by Coope
 to solve intersection of spheres (in Julia Language);
+- Implement a simple version to solve intersection of spheres (in Julia Language) using AG;
 - Implement a simple version of the solution proposed by Coope
 to solve intersection of spheres plus least square method (in Julia Language);
 - Implement a version of the Coope idea for solving DGP problems in
