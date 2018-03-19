@@ -52,3 +52,5 @@ This goal was achieved in 14/03/2018. Inside of **bp_ag folder** we have several
 related to this implementation. Essentially, you need to go to this folder by Julia REPL
 and type ```include("run_bp_ag.jl")```. After that just type ```run_bp_ag(probname)```
 where ```probname``` is an artificial instance that you can find in **examples folder**. Note that, until now we can't use Liga for this purpose.
+
+**Note ** In each folder (bp_ag and bp_coope) a file called *dataframe_ag.tsv* or *dataframe_coope.tsv* is provided. These files has our partial results in examples given **examples** folder.  
